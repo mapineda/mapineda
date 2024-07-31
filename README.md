@@ -14,7 +14,7 @@
 
 
 <!-- <p align="center">
-<img href="https://codetime.dev" alt="CodeTime Badge" src="https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D20558%26project%3D%26in=0">
+<img href="https://codetime.dev" alt="CodeTime Badge" src="">
 </p> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mapineda&label=Profile%20views&color=0e75b6&style=flat" alt="mapineda" /> </p>
@@ -40,9 +40,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-
-<!-- [![My Skills](https://skillicons.dev/icons?i=codepen,devto,twitter,linkedin,stackoverflow,instagram)](https://hopp.bio/lindseyk) -->
-
+  <a href="https://mapineda.github.io">About Me</a>
+    ·
+  <a href="mailto:mapineda1222@gmail.com">Email</a>
+    ·
+  <a href="https://linkedin.com/in/pinedamarco">LinkedIn</a>
 </p>
 
 ---

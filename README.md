@@ -1,6 +1,13 @@
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWljaGtzdDlhd3BoN2xveHJscHY5OTN0ZTh2bHduamxkdXk1d2FleSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="250"/>
 </div>
+<p align="center">
+    <a href="https://mapineda.github.io">About Me</a>
+    ·
+    <a href="mailto:mapineda1222@gmail.com">Email</a>
+    ·
+    <a href="https://linkedin.com/in/pinedamarco">LinkedIn</a>
+</p>
 
 <h1 align="center">👋 Hi, I'm Marco</h1>
 <h3 align="center">A <i>Full Stack Developer</i> based in Houston, TX, USA</h3>

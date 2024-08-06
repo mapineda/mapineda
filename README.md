@@ -37,6 +37,15 @@
 
 <p align="left">I am an action-oriented developer who gets s**t done. I love collaborating with others and exploring different tech stacks 💻. </p>
 
+# Support my work
+
+Your support keeps me motivated! If you'd like to further support my work, you can buy me a book. Thank you for your generosity!
+
+<div>
+  <a href="https://www.buymeacoffee.com/marcopineda"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a book&emoji=📖&slug=marcopineda&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
+ </div>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

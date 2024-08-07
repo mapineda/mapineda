@@ -4,7 +4,7 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWljaGtzdDlhd3BoN2xveHJscHY5OTN0ZTh2bHduamxkdXk1d2FleSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="250"/>
 </div>
 <p align="center">
-    <a href="https://mapineda.github.io">About Me</a>
+    <a href="https://marcopineda.com">About Me</a>
     ·
     <a href="mailto:mapineda1222@gmail.com">Email</a>
     ·
@@ -60,9 +60,9 @@ Your support keeps me motivated! If you'd like to further support my work, you c
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://mapineda.github.io">About Me</a>
+  <a href="https://www.marcopineda.com">About Me</a>
     ·
-  <a href="mailto:mapineda1222@gmail.com">Email</a>
+  <a href="mailto:me@marcopineda.com">Email</a>
     ·
   <a href="https://linkedin.com/in/pinedamarco">LinkedIn</a>
 </p>

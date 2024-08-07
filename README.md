@@ -6,7 +6,7 @@
 <p align="center">
     <a href="https://marcopineda.com">About Me</a>
     ·
-    <a href="mailto:mapineda1222@gmail.com">Email</a>
+    <a href="mailto:me@marcopineda.com">Email</a>
     ·
     <a href="https://linkedin.com/in/pinedamarco">LinkedIn</a>
 </p>

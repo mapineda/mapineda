@@ -1,3 +1,5 @@
+# 👋 Hi, I'm Marco
+**`Digital Craftsman`**
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWljaGtzdDlhd3BoN2xveHJscHY5OTN0ZTh2bHduamxkdXk1d2FleSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="250"/>
 </div>
@@ -9,9 +11,17 @@
     <a href="https://linkedin.com/in/pinedamarco">LinkedIn</a>
 </p>
 
-<h1 align="center">👋 Hi, I'm Marco</h1>
 <h3 align="center">A <i>Full Stack Developer</i> based in Houston, TX, USA</h3>
 
+<br/>
+
+### 🧰 Languages and Tools
+
+<p align="left"> <a href="https://skillicons.dev" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs,react,css,express,typescript,php,laravel,py,django,flask,git,js,mongodb,nodejs,postgres,sass,tailwind,bootstrap,postman,vscode,aws,angular,docker,mysql,nginx" /></a> 
+
+<br/>
+
+---
 
 <!-- <p align="center">
 <img href="https://codetime.dev" alt="CodeTime Badge" src="">
@@ -20,6 +30,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mapineda&label=Profile%20views&color=0e75b6&style=flat" alt="mapineda" /> </p>
 
 <img align="right" alt="GIF" src="https://gh-uploads.s3.amazonaws.com/active-man-working-on-web-design.png" width="360px"/>
+
 
 - 🔭 I’m currently working on **responsive web development**.
 - 🌱 I’m currently learning **Next.js**.
@@ -58,7 +69,8 @@ Your support keeps me motivated! If you'd like to further support my work, you c
 
 ---
 
-<h3 align="left">:hammer_and_wrench: Languages and Tools:</h3>
-<p align="left"> <a href="https://skillicons.dev" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs,react,css,express,typescript,php,laravel,py,django,flask,git,js,mongodb,nodejs,postgres,sass,tailwind,bootstrap,postman,vscode,aws,angular,docker,mysql,nginx" /></a> 
+### 📊 Stats
 
-<br /><br />
+![Marco's GitHub stats](https://github-readme-stats.vercel.app/api?username=mapineda&show_icons=true&theme=gotham)
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=mapineda&theme=gotham&border_radius=4.5) -->

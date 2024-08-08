@@ -32,10 +32,10 @@
 <img align="right" alt="GIF" src="https://gh-uploads.s3.amazonaws.com/active-man-working-on-web-design.png" width="360px"/>
 
 
-- 🔭 I’m currently working on **responsive web development**.
+- 🔭 I’m currently working on a **responsive** health and fitness app.
 - 🌱 I’m currently learning **Next.js**.
 - 👯 I’m looking to collaborate on **any kind of project**.
-- 🤝 I’m looking for help with **networking**.
+- 🤝 I’m looking for help with **monetizing chrome extensions**.
 - 👨‍💻 All of my projects are available at [www.marcopineda.com/](www.marcopineda.com/)
 - 💬 Ask me about **anything you'd like**.
 - 📫 How to reach me **mapineda1222@gmail.com**
@@ -56,6 +56,18 @@ Your support keeps me motivated! If you'd like to further support my work, you c
   <a href="https://www.buymeacoffee.com/marcopineda"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a book&emoji=📖&slug=marcopineda&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
  </div>
 
+### Current Reading:
+
+[Node Design Patterns](https://a.co/d/iiZGEPl)
+
+ 
+### 📚 Latest Reads
+ 
+- Management 3.0
+- How Computers Work
+- Pragmatic Programmer
+- The Nature of Software Development
+- Accelerate
 
 
 <h3 align="left">Connect with me:</h3>

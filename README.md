@@ -4,7 +4,7 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWljaGtzdDlhd3BoN2xveHJscHY5OTN0ZTh2bHduamxkdXk1d2FleSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="250"/>
 </div>
 <p align="center">
-    <a href="https://marcopineda.com">About Me</a>
+    <a href="https://www.marcopineda.com">About Me</a>
     ·
     <a href="mailto:me@marcopineda.com">Email</a>
     ·

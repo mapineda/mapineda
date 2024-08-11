@@ -58,11 +58,15 @@ Your support keeps me motivated! If you'd like to further support my work, you c
 
 ### Current Reading:
 
-[Node Design Patterns](https://a.co/d/iiZGEPl)
+- [Node Design Patterns](https://a.co/d/iiZGEPl)
+- Algorithms I
 
+### Current Course:
+
+[Algorithms I - Princeton]()
  
 ### 📚 Latest Reads
- 
+
 - Management 3.0
 - How Computers Work
 - Pragmatic Programmer

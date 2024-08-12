@@ -56,12 +56,12 @@ Your support keeps me motivated! If you'd like to further support my work, you c
   <a href="https://www.buymeacoffee.com/marcopineda"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a book&emoji=📖&slug=marcopineda&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
  </div>
 
-### Current Reading:
+### 📖 Currently Reading:
 
 - [Node Design Patterns](https://a.co/d/iiZGEPl)
 - Algorithms I
 
-### Current Course:
+### 🎒 Current Course:
 
 [Algorithms I - Princeton]()
  
@@ -74,7 +74,7 @@ Your support keeps me motivated! If you'd like to further support my work, you c
 - Accelerate
 
 
-<h3 align="left">Connect with me:</h3>
+### 🤙🏻 Connect with me:
 <p align="left">
   <a href="https://www.marcopineda.com">About Me</a>
     ·
@@ -87,6 +87,6 @@ Your support keeps me motivated! If you'd like to further support my work, you c
 
 ### 📊 Stats
 
-![Marco's GitHub stats](https://github-readme-stats.vercel.app/api?username=mapineda&show_icons=true&theme=gotham)
+<!-- ![Marco's GitHub stats](https://github-readme-stats.vercel.app/api?username=mapineda&show_icons=true&theme=gotham) -->
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=mapineda&theme=gotham&border_radius=4.5) -->
+![GitHub Streak](https://streak-stats.demolab.com?user=mapineda&theme=gotham&border_radius=4.5)

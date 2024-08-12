@@ -87,6 +87,8 @@ Your support keeps me motivated! If you'd like to further support my work, you c
 
 ### 📊 Stats
 
+  ![GitHub Streak](https://streak-stats.demolab.com?user=mapineda&theme=gotham&border_radius=4.5)
+
+
 <!-- ![Marco's GitHub stats](https://github-readme-stats.vercel.app/api?username=mapineda&show_icons=true&theme=gotham) -->
 
-![GitHub Streak](https://streak-stats.demolab.com?user=mapineda&theme=gotham&border_radius=4.5)

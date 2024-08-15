@@ -33,7 +33,7 @@
 
 
 - 🔭 I’m currently working on a **responsive** health and fitness app.
-- 🌱 I’m currently learning **Next.js**.
+- 🌱 I’m currently learning **Java**.
 - 👯 I’m looking to collaborate on **any kind of project**.
 - 🤝 I’m looking for help with **monetizing chrome extensions**.
 - 👨‍💻 All of my projects are available at [www.marcopineda.com/](www.marcopineda.com/)
@@ -59,11 +59,11 @@ Your support keeps me motivated! If you'd like to further support my work, you c
 ### 📖 Currently Reading:
 
 - [Node Design Patterns](https://a.co/d/iiZGEPl)
-- Algorithms I
+- [Algorithms I](https://www.amazon.com/dp/032157351X/ref=cm_sw_r_as_gl_api_gl_i_TWEP3H45S2J2Q6Y2S7NX?linkCode=ml2&tag=mattersqcom-20) 
 
 ### 🎒 Current Course:
 
-[Algorithms I - Princeton]()
+[Algorithms I - Princeton](https://www.coursera.org/learn/algorithms-part1)
  
 ### 📚 Latest Reads
 
@@ -91,4 +91,5 @@ Your support keeps me motivated! If you'd like to further support my work, you c
 
 
 <!-- ![Marco's GitHub stats](https://github-readme-stats.vercel.app/api?username=mapineda&show_icons=true&theme=gotham) -->
-
+___
+* disclaimer : * some links may be affiliate links and I receive a commision to go towards further education. Thank you.

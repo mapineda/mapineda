@@ -50,7 +50,9 @@
 
 # Support my work
 
-Your support keeps me motivated! If you'd like to further support my work, you can buy me a book. Thank you for your generosity!
+Your support keeps me motivated! 
+If you'd like to further support my work, you can buy me a book. 
+Thank you for your generosity!
 
 <div>
   <a href="https://www.buymeacoffee.com/marcopineda"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a book&emoji=📖&slug=marcopineda&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
@@ -92,4 +94,4 @@ Your support keeps me motivated! If you'd like to further support my work, you c
 
 <!-- ![Marco's GitHub stats](https://github-readme-stats.vercel.app/api?username=mapineda&show_icons=true&theme=gotham) -->
 ___
-* disclaimer : * some links may be affiliate links and I receive a commision to go towards further education. Thank you.
+**disclaimer** some links may be affiliate links and I receive a commision to go towards further education. Thank you.

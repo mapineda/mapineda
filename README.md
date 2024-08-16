@@ -15,6 +15,10 @@
 
 <br/>
 
+### 🛠️ Current Stack
+
+<p align="left"> <a href="https://skillicons.dev" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=typescript,js,nodejs,react,css,express,py,flask,git,postgres,tailwind,bootstrap,postman,vscode,aws,docker,nginx" /></a> 
+
 ### 🧰 Languages and Tools
 
 <p align="left"> <a href="https://skillicons.dev" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs,react,css,express,typescript,php,laravel,py,django,flask,git,js,mongodb,nodejs,postgres,sass,tailwind,bootstrap,postman,vscode,aws,angular,docker,mysql,nginx" /></a> 

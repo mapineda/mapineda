@@ -89,11 +89,11 @@ Thank you for your generosity!
   <a href="https://linkedin.com/in/pinedamarco">LinkedIn</a>
 </p>
 
----
+<!---
 
-### 📊 Stats
+### 📊 Stats -->
 
-  ![GitHub Streak](https://streak-stats.demolab.com?user=mapineda&theme=gotham&border_radius=4.5)
+<!--  ![GitHub Streak](https://streak-stats.demolab.com?user=mapineda&theme=gotham&border_radius=4.5) -->
 
 
 <!-- ![Marco's GitHub stats](https://github-readme-stats.vercel.app/api?username=mapineda&show_icons=true&theme=gotham) -->

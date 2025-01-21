@@ -17,7 +17,7 @@
 
 ### 🛠️ Current Stack
 
-<p align="left"> <a href="https://skillicons.dev" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=typescript,js,nodejs,react,css,express,py,flask,git,postgres,tailwind,bootstrap,postman,vscode,aws,docker,nginx" /></a> 
+<p align="left"> <a href="https://skillicons.dev" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py,astro,typescript,js,sass,vscode" /></a> 
 
 ### 🧰 Languages and Tools
 
@@ -36,13 +36,14 @@
 <img align="right" alt="GIF" src="https://gh-uploads.s3.amazonaws.com/active-man-working-on-web-design.png" width="360px"/>
 
 
-- 🔭 I’m currently working on a **responsive** health and fitness app.
+- 🚀 I’m currently working on an **AI** agent CMS.
 - 🌱 I’m currently learning **Java**.
 - 👯 I’m looking to collaborate on **any kind of project**.
 - 🤝 I’m looking for help with **monetizing chrome extensions**.
-- 👨‍💻 All of my projects are available at [www.marcopineda.com/](www.marcopineda.com/)
+- 👨‍💻 All of my projects are available at [on my website](https://www.marcopineda.com)
 - 💬 Ask me about **anything you'd like**.
-- 📫 How to reach me **mapineda1222@gmail.com**
+- 📫 How to reach me **me@marcopineda.com**
+- 📕 Read my blog posts on **[Dev.to](https://dev.to/mapineda)** 
 - 📝 Checkout my [resume](https://drive.google.com/file/d/1-HCCdhbppp1e-UTnMboE10oc8mIMQtNt/view?usp=sharing)
 
 <p align="center"><u>"The goal is to turn data into information, and information into insight</u>"<br> - Jeffery Heer</p>
@@ -64,15 +65,16 @@ Thank you for your generosity!
 
 ### 📖 Currently Reading:
 
-- [Node Design Patterns](https://a.co/d/iiZGEPl)
-- [Algorithms I](https://www.amazon.com/dp/032157351X/ref=cm_sw_r_as_gl_api_gl_i_TWEP3H45S2J2Q6Y2S7NX?linkCode=ml2&tag=mattersqcom-20) 
+- [Platformland: An Anatomy of Next-Generation Public Services](https://amzn.to/40hRpg8)
+- [The Trusted Advisor](https://amzn.to/3PI3GWi)
 
 ### 🎒 Current Course:
 
-[Algorithms I - Princeton](https://www.coursera.org/learn/algorithms-part1)
+[CSE 110: Principles of Programming - ASU](https://courses.ea.asu.edu/assets/courses/CSE%20110_%20Programming%20for%20Everyone_%20Introduction%20to%20Programming.pdf)
  
 ### 📚 Latest Reads
 
+- [Algorithms I](https://www.amazon.com/dp/032157351X/ref=cm_sw_r_as_gl_api_gl_i_TWEP3H45S2J2Q6Y2S7NX?linkCode=ml2&tag=mattersqcom-20) 
 - Management 3.0
 - How Computers Work
 - Pragmatic Programmer
@@ -87,6 +89,8 @@ Thank you for your generosity!
   <a href="mailto:me@marcopineda.com">Email</a>
     ·
   <a href="https://linkedin.com/in/pinedamarco">LinkedIn</a>
+    ·
+  <a href="https://x.com/marcopineda__)">X</a>
 </p>
 
 <!---
@@ -98,4 +102,6 @@ Thank you for your generosity!
 
 <!-- ![Marco's GitHub stats](https://github-readme-stats.vercel.app/api?username=mapineda&show_icons=true&theme=gotham) -->
 ___
-**disclaimer** some links may be affiliate links and I receive a commision to go towards further education. Thank you.
+<small>
+**disclaimer** some links may be affiliate links and I receive a commission towards further education. Thank you.
+</small>

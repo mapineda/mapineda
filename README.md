@@ -36,7 +36,7 @@
 <img align="right" alt="GIF" src="https://gh-uploads.s3.amazonaws.com/active-man-working-on-web-design.png" width="360px"/>
 
 
-- 🚀 I’m currently working on an **AI** agent CMS.
+- 🚀 I’m currently working on an **Open Source** Typescript package.
 - 🌱 I’m currently learning **Java**.
 - 👯 I’m looking to collaborate on **any kind of project**.
 - 🤝 I’m looking for help with **monetizing chrome extensions**.
@@ -65,8 +65,7 @@ Thank you for your generosity!
 
 ### 📖 Currently Reading:
 
-- [Platformland: An Anatomy of Next-Generation Public Services](https://amzn.to/40hRpg8)
-- [The Trusted Advisor](https://amzn.to/3PI3GWi)
+- [Building Microservices](https://amzn.to/3QNJ6o8)
 
 ### 🎒 Current Course:
 
@@ -74,6 +73,8 @@ Thank you for your generosity!
  
 ### 📚 Latest Reads
 
+- [Platformland: An Anatomy of Next-Generation Public Services](https://amzn.to/40hRpg8)
+- [The Trusted Advisor](https://amzn.to/3PI3GWi)
 - [Algorithms I](https://www.amazon.com/dp/032157351X/ref=cm_sw_r_as_gl_api_gl_i_TWEP3H45S2J2Q6Y2S7NX?linkCode=ml2&tag=mattersqcom-20) 
 - Management 3.0
 - How Computers Work

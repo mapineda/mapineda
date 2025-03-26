@@ -11,7 +11,7 @@
     <a href="https://linkedin.com/in/pinedamarco">LinkedIn</a>
 </p>
 
-<h3 align="center">A <i>Full Stack Developer</i> based in Houston, TX, USA</h3>
+<h3 align="center">A <i>Full Stack Developer</i> based in Space-city, USA</h3>
 
 <br/>
 

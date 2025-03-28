@@ -36,7 +36,7 @@
 <img align="right" alt="GIF" src="https://gh-uploads.s3.amazonaws.com/active-man-working-on-web-design.png" width="360px"/>
 
 
-- 🚀 I’m currently working on an **Open Source** Typescript package.
+- 🚀 I’m currently working on an **Open Source** Typescript [Date-Time package](https://github.com/mapineda/masonic-time).
 - 🌱 I’m currently learning **Java**.
 - 👯 I’m looking to collaborate on **any kind of project**.
 - 🤝 I’m looking for help with **monetizing chrome extensions**.

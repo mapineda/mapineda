@@ -60,7 +60,7 @@ If you'd like to further support my work, you can buy me a book.
 Thank you for your generosity!
 
 <div>
-  <a href="https://www.buymeacoffee.com/marcopineda"><img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20book&emoji=📖&slug=marcopineda&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
+  <a href="https://www.buymeacoffee.com/marcopineda"><img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20book&emoji=%F0%9F%93%96&slug=marcopineda&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
  </div>
 
 ### 📖 Currently Reading:

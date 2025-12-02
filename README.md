@@ -65,11 +65,12 @@ Thank you for your generosity!
 
 ### 📖 Currently Reading:
 
+- [Staff Engineering](https://amzn.to/49T6USq)
 - [Building Microservices](https://amzn.to/3QNJ6o8)
 
 ### 🎒 Current Course:
 
-[CSE 110: Principles of Programming - ASU](https://courses.ea.asu.edu/assets/courses/CSE%20110_%20Programming%20for%20Everyone_%20Introduction%20to%20Programming.pdf)
+- Taking a break.
  
 ### 📚 Latest Reads
 

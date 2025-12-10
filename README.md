@@ -44,7 +44,7 @@
 - 💬 Ask me about **anything you'd like**.
 - 📫 How to reach me **me@marcopineda.com**
 - 📕 Read my blog posts on **[Dev.to](https://dev.to/mapineda)** 
-- 📝 Checkout my [resume](https://drive.google.com/file/d/1-HCCdhbppp1e-UTnMboE10oc8mIMQtNt/view?usp=sharing)
+- 📝 Checkout my [resume](https://drive.google.com/file/d/1tp_5m4QdVyKQMi4Zqibvqw0AstEAsMxc/view?usp=sharing)
 
 <p align="center"><u>"The goal is to turn data into information, and information into insight</u>"<br> - Jeffery Heer</p>
 <br/>
@@ -70,7 +70,7 @@ Thank you for your generosity!
 
 ### 🎒 Current Course:
 
-- Taking a break.
+- [Machine Learning Engineering](https://app.datacamp.com/learn/career-tracks/machine-learning-engineer) by DataCamp.
  
 ### 📚 Latest Reads
 
